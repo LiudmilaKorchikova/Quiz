@@ -88,3 +88,9 @@ Himálaje
 Skalnaté hory
 Severní Uralské hory
 Andy
+Kam ukazuje sipka kompasu?
+Sever
+Jih
+Vychod
+Zapad
+Sever
